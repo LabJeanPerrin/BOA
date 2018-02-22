@@ -9,4 +9,4 @@
 * **Segmentation of Bacteria in fluorescence images:** boa.plugins.plugins.segmenters.BacteriaIntensity
 * **Tracking of Bacteria:** boa.plugins.plugins.trackers.bacteria_in_microchannel_tracker.BacteriaClosedMicrochannelTrackerLocalCorrections
 * **Segmentation of Mutations:** boa.plugins.plugins.segmenters.MutationSegmenter
-* **Tracking of Mutation:** boa.plugins.plugins.segmenters.MutationTracker
+* **Tracking of Mutations:** boa.plugins.plugins.segmenters.MutationTracker
