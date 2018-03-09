@@ -12,4 +12,5 @@
 * **Tracking of Mutations:** boa.plugins.plugins.segmenters.MutationTracker
 
 The toolset will soon be available to the community as a software with a user interface under FIJI. 
+
 Contact: jean.ollion@upmc.fr
